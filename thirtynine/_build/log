@@ -1,10 +1,10 @@
-# dune exec ./thirtyfive.exe
+# dune exec ./thirtynine.exe
 # OCAMLPARAM: unset
-# Workspace root: /home/seunghee/Desktop/ocaml/OCaml_99_problems/thirtyfive
-$ /usr/bin/nproc > /tmp/dune60f4f5.output 2> /dev/null
+# Workspace root: /home/seunghee/Desktop/ocaml/solve_problems/thirtynine
+$ /usr/bin/nproc > /tmp/dune819fbf.output 2> /dev/null
 # Auto-detected concurrency: 12
 # disable binary cache
-$ /home/seunghee/.opam/4.12.0+flambda+nnpchecker/bin/ocamlc.opt -config > /tmp/dune9f413b.output
+$ /home/seunghee/.opam/4.12.0+flambda+nnpchecker/bin/ocamlc.opt -config > /tmp/dune0d88b4.output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"
@@ -40,15 +40,15 @@ $ /home/seunghee/.opam/4.12.0+flambda+nnpchecker/bin/ocamlc.opt -config > /tmp/d
 #        ; "DUNE_OCAML_STDLIB" :
 #            "/home/seunghee/.opam/4.12.0+flambda+nnpchecker/lib/ocaml"
 #        ; "DUNE_SOURCEROOT" :
-#            "/home/seunghee/Desktop/ocaml/OCaml_99_problems/thirtyfive"
+#            "/home/seunghee/Desktop/ocaml/solve_problems/thirtynine"
 #        ; "INSIDE_DUNE" :
-#            "/home/seunghee/Desktop/ocaml/OCaml_99_problems/thirtyfive/_build/default"
+#            "/home/seunghee/Desktop/ocaml/solve_problems/thirtynine/_build/default"
 #        ; "OCAMLFIND_IGNORE_DUPS_IN" :
-#            "/home/seunghee/Desktop/ocaml/OCaml_99_problems/thirtyfive/_build/install/default/lib"
+#            "/home/seunghee/Desktop/ocaml/solve_problems/thirtynine/_build/install/default/lib"
 #        ; "OCAMLPATH" :
-#            "/home/seunghee/Desktop/ocaml/OCaml_99_problems/thirtyfive/_build/install/default/lib"
+#            "/home/seunghee/Desktop/ocaml/solve_problems/thirtynine/_build/install/default/lib"
 #        ; "OCAMLTOP_INCLUDE_PATH" :
-#            "/home/seunghee/Desktop/ocaml/OCaml_99_problems/thirtyfive/_build/install/default/lib/toplevel"
+#            "/home/seunghee/Desktop/ocaml/solve_problems/thirtynine/_build/install/default/lib/toplevel"
 #        ; "OCAML_COLOR" : "always"
 #        ; "OPAMCOLOR" : "always"
 #        }
@@ -129,4 +129,4 @@ $ /home/seunghee/.opam/4.12.0+flambda+nnpchecker/bin/ocamlc.opt -config > /tmp/d
 #      ; windows_unicode = false
 #      }
 #  }
-# Workspace root: /home/seunghee/Desktop/ocaml/OCaml_99_problems/thirtyfive
+# Workspace root: /home/seunghee/Desktop/ocaml/solve_problems/thirtynine
